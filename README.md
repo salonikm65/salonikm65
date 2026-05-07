@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="1250" width="750" src="https://w0.peakpx.com/wallpaper/377/283/HD-wallpaper-pink-lilies-lilies-flowers-petals-bouquet.jpg"  />
+  <img height="750" width="1250" src="https://w0.peakpx.com/wallpaper/377/283/HD-wallpaper-pink-lilies-lilies-flowers-petals-bouquet.jpg"  />
 </div>
 
 
