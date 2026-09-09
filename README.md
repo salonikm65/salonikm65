@@ -1,9 +1,10 @@
 <h1 align="center">Hii I'm Saloni!!</h1>
-<h2 align="left">👩‍💻Aspiring Software Engineering</h2>
+<h2 align="center">👩‍💻Aspiring Software Engineering</h2>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/1280px-LeetCode_Logo_black_with_text.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="25" alt="Leetcode logo"  />
 </div>
 
 <h4 align="left">I'm interested in software development, web technologies, AI, and problem solving <br><br>- 🔭 Pursuing Computer Science Engineering<br>- Currently learning Python and Machine Learning<br>-</h4>
