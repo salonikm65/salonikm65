@@ -27,14 +27,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://i.pinimg.com/1200x/99/f8/87/99f887833c475448723d3c9ac16c179b.jpg" height="40" alt="C++ logo" />
 </div>
 
 
 
-<h4 align="left">🔥   My Stats :<br><br>🚀JAVA, C++, C, HTML, CSS, OOPS in C++<br>💻Data Structure and Algorithm<br>📚 Exploring Software Development & AI/ML<br>🌱Full Stack Development</h4>
+<h4 align="left">🔥   My Stats :<br><br>🚀JAVA, C++, C, HTML, CSS, OOPS in C++<br>💻Data Structure and Algorithm<br>📚 Exploring Software Development & AI/ML<br>🌱Full Stack Development</h4><br>♣️Building projects with C++, Java & Web Technologies<br>
 <br>
 <br>
 <div align="center">
-  <img height="500" width="900" src="https://i.pinimg.com/736x/20/ab/df/20abdff5712f017595af6d975dae5690.jpg"/>
+  <img height="400" width="800" src="https://i.pinimg.com/originals/49/71/a2/4971a2415310f4da8528783803dd3626.png"/>
 </div>
 
