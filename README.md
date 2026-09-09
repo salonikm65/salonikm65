@@ -1,10 +1,4 @@
 <div align="center">
-  <img height="750" width="1250" src="https://w0.peakpx.com/wallpaper/377/283/HD-wallpaper-pink-lilies-lilies-flowers-petals-bouquet.jpg"  />
-</div>
-
-
-
-<div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
 </div>
@@ -39,12 +33,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="cpp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg" height="40" alt="cpp logo"  />
   <img width="12" />
 </div>
 
 
 
 <h4 align="left">🔥   My Stats :<br><br>🚀JAVA, C++, C, HTML, CSS, OOPS in C++<br>💻Data Structure and Algorithm<br>📚 Exploring Software Development & AI/ML<br>🌱Full Stack Development</h4>
+<br>
+<br>
+<div align="center">
+  <img height="750" width="1250" src="https://i.pinimg.com/736x/20/ab/df/20abdff5712f017595af6d975dae5690.jpg"/>
+</div>
 
-###
