@@ -1,5 +1,4 @@
 <h1 align="center">Hii I'm Saloni!!</h1>
-
 <h2 align="left">👩‍💻Aspiring Software Engineering</h2>
 
 <div align="center">
