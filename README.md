@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
-  <img src="https://miro.medium.com/1*0HMd3UBqpu478hk_HbhEaA.png" height="25" width="30" alt="Leetcode logo"  />
+  <img src="https://miro.medium.com/1*0HMd3UBqpu478hk_HbhEaA.png" height="25" width="60" alt="Leetcode logo"  />
 </div>
 
 <h4 align="left">I'm interested in software development, web technologies, AI, and problem solving <br><br>- 🔭 Pursuing Computer Science Engineering<br>- Currently learning Python and Machine Learning<br>-</h4>
