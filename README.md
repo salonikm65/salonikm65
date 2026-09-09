@@ -11,15 +11,15 @@
 
 
 
-<h1 align="center">Hello Guys!!</h1>
+<h1 align="center">Hii I'm Saloni!!</h1>
 
 
 
-<h2 align="left">👩‍💻  About Me</h2>
+<h2 align="left">👩‍💻Aspiring Software Engineering</h2>
 
 
 
-<h4 align="left">I'm from Jharkhand<br><br>- 🔭 I’m pursuing Computer Science Engineering<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I do coding.</h4>
+<h4 align="left">I'm interested in software development, web technologies, AI, and problem solving <br><br>- 🔭 Pursuing Computer Science Engineering<br>- Currently learning Python and Machine Learning<br>-</h4>
 
 
 
@@ -39,10 +39,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="cpp logo"  />
+  <img width="12" />
 </div>
 
 
 
-<h4 align="left">🔥   My Stats :<br><br>🚀 Learning Java & Data Structures<br>💻 Building projects and improving daily<br>📚 Exploring Software Development & Tech<br>🎯 Focused on becoming a better developer and learning chinese language.<br>🌱 Currently learning Full Stack Development</h4>
+<h4 align="left">🔥   My Stats :<br><br>🚀JAVA, C++, C, HTML, CSS, OOPS in C++<br>💻Data Structure and Algorithm<br>📚 Exploring Software Development & AI/ML<br>🌱Full Stack Development</h4>
 
 ###
