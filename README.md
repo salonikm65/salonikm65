@@ -27,8 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c++/c++-original.svg" height="40" alt="c++ logo"  />
-  <img width="12" />
 </div>
 
 
@@ -37,6 +35,6 @@
 <br>
 <br>
 <div align="center">
-  <img height="750" width="1250" src="https://i.pinimg.com/736x/20/ab/df/20abdff5712f017595af6d975dae5690.jpg"/>
+  <img height="500" width="900" src="https://i.pinimg.com/736x/20/ab/df/20abdff5712f017595af6d975dae5690.jpg"/>
 </div>
 
