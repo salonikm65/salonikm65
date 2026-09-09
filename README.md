@@ -34,10 +34,10 @@
 
 
 
-<h4 align="left">🔥My Stats :<br><br>🚀JAVA, C++, C, HTML, CSS, OOPS in C++<br>💻Data Structure and Algorithm<br>📚 Exploring Software Development & AI/ML<br>🌱Full Stack Development<br>♣️Building projects with C++, Java & Web Technologies></h4><br>
+<h4 align="left">🔥My Stats :<br><br>🚀JAVA, C++, C, HTML, CSS, OOPS in C++<br>💻Data Structure and Algorithm<br>📚 Exploring Software Development & AI/ML<br>🌱Full Stack Development<br>♣️Building projects with C++, Java & Web Technologies</h4><br>
 <br>
 <br>
 <div align="center">
-  <img height="500" width="1000" src="https://i.pinimg.com/originals/49/71/a2/4971a2415310f4da8528783803dd3626.png"/>
+  <img height="500" width="900" src="https://i.pinimg.com/originals/49/71/a2/4971a2415310f4da8528783803dd3626.png"/>
 </div>
 
