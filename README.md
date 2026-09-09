@@ -7,7 +7,7 @@
   <img src="https://miro.medium.com/1*0HMd3UBqpu478hk_HbhEaA.png" height="25" width="60" alt="Leetcode logo"  />
 </div>
 
-<h4 align="left">I'm interested in software development, web technologies, AI, and problem solving <br><br>- 🔭 Pursuing Computer Science Engineering<br>- Currently learning Python and Machine Learning<br>-</h4>
+<h4 align="left">-🎲Interested in software development, web technologies, AI, and problem solving <br>- 🔭 Pursuing Computer Science Engineering<br>- Currently learning Python and Machine Learning<br></h4>
 
 
 
